@@ -1,3 +1,3 @@
 # docker_compose
 
-testing repository for the DevOps docker compose assignment
+test repository for the DevOps docker compose assignment
